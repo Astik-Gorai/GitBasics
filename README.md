@@ -11,10 +11,10 @@
 ### Connect with me:
 
 
-[<img align="left" alt="Astik_gorai | Facebook" width="22px" src="https://www.facebook.com/astik.gorai.54" />][facebook]
-[<img align="left" alt="Astik_gorai | Instagram" width="22px" src="https://www.instagram.com/itsastik/" />][instagram]
+        I WILL UPDATE IT :-<
 
 <br />
 
 ### Languages and Tools:
 
+        I WILL UPDATE IT :-<
