@@ -1,0 +1,43 @@
+				##BASICS GIT COMMAND##
+
+	1. git --version  # To check the version of the git in our local machine
+
+	2. git config --global user.name "Mr. Astik Gorai" # For the first time to setup our credential
+	
+	3. git config --global user.email "itsastik2000@gmail.com" # For the first time to setup our credential
+	
+	4. git config user.name # To check the user name
+	
+	5. git config user.email #To check the user email
+	
+	6. cd # To look the current directory
+	
+	7. ls # To look all the folders avalabile on the present directory
+	
+	8. mkdir <Folder Name> # To craete another folder  name
+	
+	9. cd <Folder Name> # To the change the directory
+ 	
+	10. git init # To initialize the present repo in git 
+	
+	11. git add <File Name> # To add a file into the git
+	
+	12. git commit -m "Put your mesage here"  # To commit All the files
+	
+	13. git log # To check all the history that took place for that file
+	
+	14.git checkout <hash code of commitment /branch name> #To change the present state or can also be used to change the branhes
+	
+	15. git branch # Give all the branches present in the repository
+	
+	16. git branch <New Branch Name>  # Create a new branch
+	
+	17. git checkout <branch name> # To change the branches
+	
+	18. git checkout -b <branch name> # To create a new branch as well as checkout at the same time
+	
+	19. git push # For pushed our repo into github
+	
+	20. git push -u origin <branch name> # Push any branch into github
+	
+	21.git clone <repo url> # To clone any  repo from github to our local machine.
