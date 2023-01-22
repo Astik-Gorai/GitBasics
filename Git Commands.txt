@@ -40,4 +40,7 @@
 	
 	20. git push -u origin <branch name> # Push any branch into github
 	
-	21.git clone <repo url> # To clone any  repo from github to our local machine.
+	21. git branch -d <branch Name>  # To delete a branch
+
+	21.git clone <repo url> # To clone any  repo from github to our local
+	machine.
